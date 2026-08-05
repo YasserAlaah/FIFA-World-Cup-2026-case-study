@@ -1,4 +1,4 @@
-# Enterprise Edge Ingress: TOD Architecture
+# Enterprise Edge Ingress:  Architecture
 
 This diagram illustrates how an enterprise platform utilizes edge routing and elastic Kubernetes scaling to absorb massive concurrent login spikes without crashing.
 
